@@ -48,10 +48,10 @@ I helped with creating the shop system, desinging the combat system, implementin
 
 I didn't do things like the art and implementing boss gimmicks.
 
-![Running Program - Map]()
+![Running Program - Map](https://github.com/MisterNo0ne/A2Programming1Portfolio/blob/gh-pages/images/finalprojMap.png?raw=true)
 
-![Running Program - Fight]()
+![Running Program - Fight](https://github.com/MisterNo0ne/A2Programming1Portfolio/blob/gh-pages/images/finalprojFight.png?raw=true)
 
-![Running Program - Shop]()
+![Running Program - Shop](https://github.com/MisterNo0ne/A2Programming1Portfolio/blob/gh-pages/images/finalprojShop.png?raw=true)
 
 [Source Code](https://github.com/MisterNo0ne/PythonGroupTwoA2Prog/tree/main/mainThing)
