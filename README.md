@@ -1,6 +1,7 @@
 # Welcome to epicland (micah's programming portfolio) (epic)
 
-!!! ONLY EPIC PEOPLE ALLOWDE!!! !!!
+Passed CTE State Certification Exam
+Passed Python 
 
 ## Programming 1 Semester 1 Projects:
 ### OOP Calculator
